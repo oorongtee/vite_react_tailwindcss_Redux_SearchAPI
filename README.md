@@ -1,6 +1,7 @@
 這是一個買菜用的購物車：
 用
 react / redux toolkit
+vite / tailwindcss
 
 主要功能：
 1. get不同菜名的API資料，會顯現在畫面上(以後可以透過後台新增)
